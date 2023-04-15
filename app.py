@@ -1,0 +1,6 @@
+print(2)
+print('oi')
+print('oi')
+print('oi')
+print('oi')
+print('oi')
